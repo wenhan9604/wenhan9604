@@ -2,7 +2,7 @@
 
 I am a Computer Vision tech enthusiast, who
   - is currently pursuing a Masters in Computer Science in Georgia Tech
-  - had 3 years of experience working in emerging technology (AR/VR, CV, AI) at Dell Technologies. 
+  - have 3 years of experience working in emerging technology (AR/VR, CV, AI) at Dell Technologies. 
 
 🌱 I’m currently learning about Deep Learning frameworks on DeepLearning.AI by Andrew Ng  
 
