@@ -2,11 +2,11 @@
 
 - I am a Computer Vision tech enthusiast, who
   - is currently pursuing a Masters in Computer Science in Georgia Tech
-  - have 3 years of experience working in emerging technology (AR/VR, CV, AI) at Dell Technologies. 
+  - have 3 years of experience working in emerging technology (AR/VR, Computer Vision, AI) at Dell Technologies. 
 
-- 🌱 I’m currently learning about Deep Learning frameworks on DeepLearning.AI by Andrew Ng
-- 🔭 I have recently completed and published a Virtual Reality research project to investigate the performance of human input (eye-gaze), check it out at this [repo](https://github.com/wenhan9604/Multimodal-Interaction-with-Gaze-and-Controller-Gestures-Testbed)
-- 👯 I’m looking to collaborate on Computer-Vision related projects, ranging from object tracking to classfication.  
+- 🌱 I’m currently learning about Deep Learning Fundamentals (CNN, Transformers, GenAI) from the Deep Learning Module (CS7643) under Master's program in Georgia Tech
+- 🔭 I am currently working on the Florida Lizard Classification project. The project aims to develop a classification pipeline for identifying five common Anolis species from photographs, primarily to support a community science initiative in Miami. Check it out here: https://github.com/wenhan9604/Anole_classifier.git
+- 👯 I’m looking to collaborate on Computer-Vision related projects, ranging from object tracking to classfication. Feel free to reach out to me on my LinkedIn profile or email!
 
 <!--
 **wenhan9604/wenhan9604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
